@@ -24,6 +24,7 @@ import axios from "axios";
 import Error from "./Error";
 import Chart from "./Chart";
 
+// Coin details
 const CoinDetails = () => {
   const params = useParams();
   const [coin, setCoin] = useState({});
