@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/crypto-hub/static/js/main.e55c3d53.js",
-    "static/media/btc.png": "/crypto-hub/static/media/btc.04101b0b163c035fa57e.png",
-    "static/media/me.jpg": "/crypto-hub/static/media/me.5f990c2010a372fd6d05.jpg",
-    "static/media/loader.gif": "/crypto-hub/static/media/loader.89e3f8202814339a6074.gif",
-    "index.html": "/crypto-hub/index.html",
-    "main.e55c3d53.js.map": "/crypto-hub/static/js/main.e55c3d53.js.map"
+    "main.js": "/Crypto-Hub/static/js/main.fe23076b.js",
+    "static/media/btc.png": "/Crypto-Hub/static/media/btc.04101b0b163c035fa57e.png",
+    "static/media/me.jpg": "/Crypto-Hub/static/media/me.5f990c2010a372fd6d05.jpg",
+    "static/media/loader.gif": "/Crypto-Hub/static/media/loader.89e3f8202814339a6074.gif",
+    "index.html": "/Crypto-Hub/index.html",
+    "main.fe23076b.js.map": "/Crypto-Hub/static/js/main.fe23076b.js.map"
   },
   "entrypoints": [
-    "static/js/main.e55c3d53.js"
+    "static/js/main.fe23076b.js"
   ]
 }
