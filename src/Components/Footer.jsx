@@ -23,11 +23,11 @@ const Footer = () => {
             at affordable prices.
           </Text>
         </VStack>
-        <VStack>
+        {/* <VStack>
           <Avatar boxSize={"28"} mt={["4", "0"]} src={me} />
 
           <Text>Our Founder</Text>
-        </VStack>
+        </VStack> */}
       </Stack>
     </Box>
   );
